@@ -6,8 +6,7 @@ class Program
     {
         int[] firstArr = {2,3,4,7};
         int[] secondArr = {2,4};
-        
-
+       
 
         Console.WriteLine(IsArrayContains(firstArr, secondArr));
 
